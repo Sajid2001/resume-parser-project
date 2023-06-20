@@ -18,7 +18,14 @@ Check out the site here: https://resume-parser-project.vercel.app/signin
 
 ## How to use
 
-Coming soon
+### Uploading Resumes
+
+https://github.com/Sajid2001/resume-parser-project/assets/60523377/e1a42dd8-7891-4cf7-b143-03960a0d44e0
+
+### Searching the Leaderboard
+
+https://github.com/Sajid2001/resume-parser-project/assets/60523377/9e422521-d9c6-4a9e-a2bc-d06755b1699f
+
 
 ## How to tweak this project for yourself
 
